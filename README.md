@@ -1,1 +1,2 @@
-GAME2014_Lab1
+# GAME2014_Lab1
+Lab 1 for GAME2014
